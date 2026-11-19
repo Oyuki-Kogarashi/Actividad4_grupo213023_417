@@ -1,4 +1,4 @@
-# Clase Reserva: une un cliente, un servicio, una duracion y un estado.
+# Clase Reserva: une un cliente, un servicio, una duracion y un estado. 
 from entidad import Entidad
 from excepciones import (
     ErrorSoftwareFJ,
