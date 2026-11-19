@@ -1,13 +1,20 @@
-2026-11-18 10:36:58,534 | INFO | === Inicio de la simulacion Software FJ ===
-2026-11-18 10:36:58,536 | INFO | Cliente registrado: Samuel Tilano
-2026-11-18 10:36:58,536 | ERROR | Error en registro de email: Email invalido: 'correo_incorrecto'
-2026-11-18 10:36:58,536 | ERROR | Error en registro de telefono: Telefono invalido: '123' (debe tener 7 a 10 digitos).
-2026-11-18 10:36:58,536 | INFO | Modulo simulaciones_clientes ejecutado correctamente
-2026-11-18 10:36:58,538 | INFO | Sala registrada: Sala de reuniones
-2026-11-18 10:36:58,538 | ERROR | Error en capacidad de sala: La capacidad de la sala debe ser un numero entero mayor que cero.
-2026-11-18 10:36:58,539 | INFO | Costo de alquiler calculado: $160,650.00
-2026-11-18 10:36:58,539 | ERROR | Intento de utilizar sala no disponible: El servicio 'Sala de reuniones' no esta disponible.
-2026-11-18 10:36:58,539 | INFO | Modulo simulaciones_salas ejecutado correctamente
-2026-11-18 10:36:58,539 | ERROR | Modulo no encontrado: simulaciones_servicios (en simulaciones_servicios)
-2026-11-18 10:36:58,539 | ERROR | Modulo no encontrado: simulaciones_reservas (en simulaciones_reservas)
-2026-11-18 10:36:58,539 | INFO | === Fin de la simulacion ===
+2026-11-19 07:44:04,407 | INFO | === Inicio de la simulacion Software FJ ===
+2026-11-19 07:44:04,408 | INFO | Cliente registrado: Samuel Tilano
+2026-11-19 07:44:04,408 | ERROR | Error en registro de email: Email invalido: 'correo_incorrecto'
+2026-11-19 07:44:04,408 | ERROR | Error en registro de telefono: Telefono invalido: '123' (debe tener 7 a 10 digitos).
+2026-11-19 07:44:04,408 | INFO | Modulo simulaciones_clientes ejecutado correctamente
+2026-11-19 07:44:04,409 | INFO | Sala registrada: Sala de reuniones
+2026-11-19 07:44:04,409 | ERROR | Error en capacidad de sala: La capacidad de la sala debe ser un numero entero mayor que cero.
+2026-11-19 07:44:04,409 | INFO | Costo de alquiler calculado: $160,650.00
+2026-11-19 07:44:04,409 | ERROR | Intento de utilizar sala no disponible: El servicio 'Sala de reuniones' no esta disponible.
+2026-11-19 07:44:04,409 | INFO | Modulo simulaciones_salas ejecutado correctamente
+2026-11-19 07:44:04,414 | INFO | Equipo registrado: Alquiler de computador
+2026-11-19 07:44:04,414 | ERROR | Error en tipo de equipo: Tipo de equipo invalido: debe tener al menos 3 caracteres.
+2026-11-19 07:44:04,414 | INFO | Asesoria registrada: Asesoria informatica
+2026-11-19 07:44:04,414 | ERROR | Error en especialista: Nombre del especialista invalido: debe tener al menos 3 caracteres.
+2026-11-19 07:44:04,414 | INFO | Costo de equipo calculado: $90,000.00
+2026-11-19 07:44:04,414 | INFO | Costo de asesoria calculado: $190,400.00
+2026-11-19 07:44:04,415 | ERROR | Intento de utilizar equipo desactivado: El servicio 'Alquiler de computador' no esta disponible.
+2026-11-19 07:44:04,415 | INFO | Modulo simulaciones_servicios ejecutado correctamente
+2026-11-19 07:44:04,415 | ERROR | Modulo no encontrado: simulaciones_reservas (en simulaciones_reservas)
+2026-11-19 07:44:04,415 | INFO | === Fin de la simulacion ===
