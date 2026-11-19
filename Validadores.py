@@ -1,11 +1,10 @@
 # Funciones de validacion reutilizables.
 # Cada una lanza una excepcion si el dato es invalido.
 # El parametro "error" permite elegir que excepcion lanzar
-# (por ejemplo ClienteInvalidoError o ServicioInvalidoError).
+# (por ejemplo ClienteInvalidoError o ServicioInvalidoError). 
 import re
 
 from excepciones import ErrorSoftwareFJ
-
 
 def validar_texto(valor, campo="texto", minimo=3, error=ErrorSoftwareFJ):
     """Verifica que sea un texto con un minimo de caracteres."""
