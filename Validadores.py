@@ -6,7 +6,6 @@ import re
 
 from excepciones import ErrorSoftwareFJ
 
-
 def validar_texto(valor, campo="texto", minimo=3, error=ErrorSoftwareFJ):
     """Verifica que sea un texto con un minimo de caracteres."""
     if not isinstance(valor, str) or len(valor.strip()) < minimo:
