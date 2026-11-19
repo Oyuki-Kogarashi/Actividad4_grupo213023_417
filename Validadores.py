@@ -1,7 +1,7 @@
 # Funciones de validacion reutilizables.
 # Cada una lanza una excepcion si el dato es invalido.
 # El parametro "error" permite elegir que excepcion lanzar
-# (por ejemplo ClienteInvalidoError o ServicioInvalidoError).
+# (por ejemplo ClienteInvalidoError o ServicioInvalidoError). 
 import re
 
 from excepciones import ErrorSoftwareFJ
