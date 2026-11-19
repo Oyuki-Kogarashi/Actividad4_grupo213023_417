@@ -1,4 +1,4 @@
-# Excepciones personalizadas de Software FJ. 
+# Excepciones personalizadas de Software FJ.
 # Todas heredan de ErrorSoftwareFJ, asi se pueden capturar todas juntas.
 
 
