@@ -1,6 +1,6 @@
 # Programa principal de Software FJ.
 # Ejecuta las simulaciones de cada integrante y muestra un resumen del log.
-# Para correrlo:  python main.py
+# Para correrlo:  python main.py 
 import importlib
 
 from logger_fj import NOMBRE_ARCHIVO, registrar_error, registrar_evento
