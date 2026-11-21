@@ -1,33 +1,33 @@
-2026-11-20 19:15:20,069 | INFO | === Inicio de la simulacion Software FJ ===
-2026-11-20 19:15:20,089 | INFO | Cliente registrado: Samuel Tilano
-2026-11-20 19:15:20,089 | ERROR | Error en registro de email: Email invalido: 'correo_incorrecto'
-2026-11-20 19:15:20,089 | ERROR | Error en registro de telefono: Telefono invalido: '123' (debe tener 7 a 10 digitos).
-2026-11-20 19:15:20,089 | INFO | Modulo simulaciones_clientes ejecutado correctamente
-2026-11-20 19:15:20,103 | INFO | Sala registrada: Sala de reuniones
-2026-11-20 19:15:20,103 | ERROR | Error en capacidad de sala: La capacidad de la sala debe ser un numero entero mayor que cero.
-2026-11-20 19:15:20,104 | INFO | Costo de alquiler calculado: $160,650.00
-2026-11-20 19:15:20,104 | ERROR | Intento de utilizar sala no disponible: El servicio 'Sala de reuniones' no esta disponible.
-2026-11-20 19:15:20,104 | INFO | Modulo simulaciones_salas ejecutado correctamente
-2026-11-20 19:15:20,117 | INFO | Equipo registrado: Alquiler de computador
-2026-11-20 19:15:20,118 | ERROR | Error en tipo de equipo: Tipo de equipo invalido: debe tener al menos 3 caracteres.
-2026-11-20 19:15:20,118 | INFO | Asesoria registrada: Asesoria informatica
-2026-11-20 19:15:20,118 | ERROR | Error en especialista: Nombre del especialista invalido: debe tener al menos 3 caracteres.
-2026-11-20 19:15:20,119 | INFO | Costo de equipo calculado: $90,000.00
-2026-11-20 19:15:20,119 | INFO | Costo de asesoria calculado: $190,400.00
-2026-11-20 19:15:20,120 | ERROR | Intento de utilizar equipo desactivado: El servicio 'Alquiler de computador' no esta disponible.
-2026-11-20 19:15:20,120 | INFO | Modulo simulaciones_servicios ejecutado correctamente
-2026-11-20 19:15:20,129 | INFO | Reserva de Maria Lopez confirmada.
-2026-11-20 19:15:20,129 | INFO | Reserva procesada. Costo total: $128,520.00
-2026-11-20 19:15:20,129 | INFO | Fin del procesamiento. Estado: CONFIRMADA
-2026-11-20 19:15:20,129 | INFO | Simulacion 9 OK. Costo: $128,520.00
-2026-11-20 19:15:20,130 | ERROR | No se pudo procesar la reserva: El servicio 'Sala Orion' no esta disponible.
-2026-11-20 19:15:20,130 | INFO | Fin del procesamiento. Estado: PENDIENTE
-2026-11-20 19:15:20,130 | ERROR | Simulacion 10: Reserva de Maria Lopez no procesada | causa: El servicio 'Sala Orion' no esta disponible.
-2026-11-20 19:15:20,130 | INFO | Reserva de Maria Lopez confirmada.
-2026-11-20 19:15:20,130 | INFO | Reserva procesada. Costo total: $40,000.00
-2026-11-20 19:15:20,130 | INFO | Fin del procesamiento. Estado: CONFIRMADA
-2026-11-20 19:15:20,130 | INFO | Reserva de Maria Lopez cancelada.
-2026-11-20 19:15:20,130 | ERROR | Simulacion 11: La reserva ya estaba cancelada.
-2026-11-20 19:15:20,131 | ERROR | Simulacion 12: La reserva necesita un cliente.
-2026-11-20 19:15:20,131 | INFO | Modulo simulaciones_reservas ejecutado correctamente
-2026-11-20 19:15:20,131 | INFO | === Fin de la simulacion ===
+2026-11-20 19:18:05,290 | INFO | === Inicio de la simulacion Software FJ ===
+2026-11-20 19:18:05,293 | INFO | Cliente registrado: Samuel Tilano
+2026-11-20 19:18:05,293 | ERROR | Error en registro de email: Email invalido: 'correo_incorrecto'
+2026-11-20 19:18:05,293 | ERROR | Error en registro de telefono: Telefono invalido: '123' (debe tener 7 a 10 digitos).
+2026-11-20 19:18:05,293 | INFO | Modulo simulaciones_clientes ejecutado correctamente
+2026-11-20 19:18:05,295 | INFO | Sala registrada: Sala de reuniones
+2026-11-20 19:18:05,295 | ERROR | Error en capacidad de sala: La capacidad de la sala debe ser un numero entero mayor que cero.
+2026-11-20 19:18:05,296 | INFO | Costo de alquiler calculado: $160,650.00
+2026-11-20 19:18:05,297 | ERROR | Intento de utilizar sala no disponible: El servicio 'Sala de reuniones' no esta disponible.
+2026-11-20 19:18:05,297 | INFO | Modulo simulaciones_salas ejecutado correctamente
+2026-11-20 19:18:05,299 | INFO | Equipo registrado: Alquiler de computador
+2026-11-20 19:18:05,299 | ERROR | Error en tipo de equipo: Tipo de equipo invalido: debe tener al menos 3 caracteres.
+2026-11-20 19:18:05,300 | INFO | Asesoria registrada: Asesoria informatica
+2026-11-20 19:18:05,300 | ERROR | Error en especialista: Nombre del especialista invalido: debe tener al menos 3 caracteres.
+2026-11-20 19:18:05,301 | INFO | Costo de equipo calculado: $90,000.00
+2026-11-20 19:18:05,301 | INFO | Costo de asesoria calculado: $190,400.00
+2026-11-20 19:18:05,302 | ERROR | Intento de utilizar equipo desactivado: El servicio 'Alquiler de computador' no esta disponible.
+2026-11-20 19:18:05,302 | INFO | Modulo simulaciones_servicios ejecutado correctamente
+2026-11-20 19:18:05,304 | INFO | Reserva de Maria Lopez confirmada.
+2026-11-20 19:18:05,304 | INFO | Reserva procesada. Costo total: $128,520.00
+2026-11-20 19:18:05,304 | INFO | Fin del procesamiento. Estado: CONFIRMADA
+2026-11-20 19:18:05,304 | INFO | Simulacion 9 OK. Costo: $128,520.00
+2026-11-20 19:18:05,304 | ERROR | No se pudo procesar la reserva: El servicio 'Sala Orion' no esta disponible.
+2026-11-20 19:18:05,304 | INFO | Fin del procesamiento. Estado: PENDIENTE
+2026-11-20 19:18:05,304 | ERROR | Simulacion 10: Reserva de Maria Lopez no procesada | causa: El servicio 'Sala Orion' no esta disponible.
+2026-11-20 19:18:05,304 | INFO | Reserva de Maria Lopez confirmada.
+2026-11-20 19:18:05,304 | INFO | Reserva procesada. Costo total: $40,000.00
+2026-11-20 19:18:05,304 | INFO | Fin del procesamiento. Estado: CONFIRMADA
+2026-11-20 19:18:05,304 | INFO | Reserva de Maria Lopez cancelada.
+2026-11-20 19:18:05,305 | ERROR | Simulacion 11: La reserva ya estaba cancelada.
+2026-11-20 19:18:05,305 | ERROR | Simulacion 12: La reserva necesita un cliente.
+2026-11-20 19:18:05,305 | INFO | Modulo simulaciones_reservas ejecutado correctamente
+2026-11-20 19:18:05,305 | INFO | === Fin de la simulacion ===
